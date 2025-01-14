@@ -2,5 +2,5 @@
 生成AIすごいね  
 PWAなのでローカルにインストールするとオフラインでもサーバがアクセス不可になっても使えます
 
-# demo
-- https://vercel.com/ryogrids-projects/ai-generated-todo-app
+# Demo
+- [https://vercel.com/ryogrids-projects/ai-generated-todo-app](https://ai-generated-todo-app.vercel.app/)
