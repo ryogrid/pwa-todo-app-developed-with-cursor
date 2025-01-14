@@ -1,8 +1,8 @@
 {
-  "name": "Todo App",
+  "name": "Todo App by ryo_grid",
   "short_name": "Todo",
-  "start_url": "/dist/todo-pwa/",
-  "scope": "/dist/todo-pwa/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",

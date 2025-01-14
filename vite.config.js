@@ -4,7 +4,6 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/dist/todo-pwa/',
   plugins: [
     react(),
     VitePWA({
@@ -15,12 +14,12 @@ export default defineConfig({
         cleanupOutdatedCaches: true
       },
       manifest: {
-        name: 'Todo App',
+        name: 'Todo App by ryo_grid',
         short_name: 'Todo',
-        description: 'A simple todo application',
+        description: 'A AI generated todo app',
         theme_color: '#ffffff',
-        start_url: '/dist/todo-pwa/',
-        scope: '/dist/todo-pwa/',
+        start_url: '/',
+        scope: '/',
         icons: [
           {
             src: 'pwa-192x192.png',
